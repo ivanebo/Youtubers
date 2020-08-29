@@ -29,3 +29,4 @@
 | Kunal Kushwaha      | https://www.youtube.com/channel/UCfv8cds8AfIM3UZtAWOz6Gg | https://twitter.com/kush_kunal      |Python, Data Structures, ML, Web|
 | Francesco Ciulla| https://www.youtube.com/c/FrancescoCiulla|https://twitter.com/FrancescoCiull4|---------|
 | Simon Høiberg | https://www.youtube.com/c/SimonHoiberg | https://twitter.com/SimonHoiberg | Tech, Business, Startup |
+| Harsh Kumar Khatri         | https://www.youtube.com/channel/UCKNtMU9M559bmXxKoT6YeJw |https://twitter.com/HarshKhatri24  |Projects, Tips and Tricks|
